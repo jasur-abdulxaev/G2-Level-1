@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/N1/" />
+  <Folder Name="/N1/HomeTasks/" />
+  <Folder Name="/N1/Tasks/">
+    <Project Path="N1-T1/N1-T1.csproj" />
+  </Folder>
+</Solution>
