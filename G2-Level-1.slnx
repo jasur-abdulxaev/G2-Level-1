@@ -1,4 +1,8 @@
 <Solution>
+  <Folder Name="/LINQ/" />
+  <Folder Name="/LINQ/Tasks/">
+    <Project Path="LinqR1/LinqR1.csproj" Id="4ec6b6b6-73f2-4fef-93e0-14ee329d13f1" />
+  </Folder>
   <Folder Name="/N1/" />
   <Folder Name="/N1/HomeTasks/" />
   <Folder Name="/N1/Tasks/">
