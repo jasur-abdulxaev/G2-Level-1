@@ -76,13 +76,13 @@ Console.WriteLine($"str1: {str1}, str2: {str2}");
 // && - va operatori, ikkala shart ham to'g'ri bo'lishi kerak
 // || - yoki operatori, kamida bitta shart to'g'ri bo'lishi kerak
 
-Console.Write("\nYoshingizni kiriting: ");
-int age = int.Parse(Console.ReadLine());
+//Console.Write("\nYoshingizni kiriting: ");
+//int age = int.Parse(Console.ReadLine());
 
-// Ternary operator yordamida voyaga yetganlik shartini tekshirish
-bool isAdult = age >= 18 && age <= 60; // Voyaga yetganlik sharti
+//// Ternary operator yordamida voyaga yetganlik shartini tekshirish
+//bool isAdult = age >= 18 && age <= 60; // Voyaga yetganlik sharti
 
-string voyagaYetganmi = age >= 18 && age <= 60 ? "Voyaga yetgan!" : "Voyaga yetmagan yoki keksaygan!";
+//string voyagaYetganmi = age >= 18 && age <= 60 ? "Voyaga yetgan!" : "Voyaga yetmagan yoki keksaygan!";
 
 
 //if (age < 18)
@@ -102,3 +102,22 @@ string voyagaYetganmi = age >= 18 && age <= 60 ? "Voyaga yetgan!" : "Voyaga yetm
 
 #endregion
 
+// 2 ta sonni taqqoslash masalasi
+Console.Write("\nBirinchi sonni kiriting: ");
+int num1 = int.Parse(Console.ReadLine());
+
+Console.Write("Ikkinchi sonni kiriting: ");
+int num2 = int.Parse(Console.ReadLine());
+
+if (num1 > num2)
+{
+    Console.WriteLine($"{num1} soni {num2} sonidan katta.");
+}
+else if (num1 < num2)
+{
+    Console.WriteLine($"{num1} soni {num2} sonidan kichik.");
+}
+else
+{
+    Console.WriteLine("Ikkala son teng.");
+}
