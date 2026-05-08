@@ -1,8 +1,4 @@
 <Solution>
-  <Folder Name="/LINQ/" />
-  <Folder Name="/LINQ/Tasks/">
-    <Project Path="LinqR1/LinqR1.csproj" Id="4ec6b6b6-73f2-4fef-93e0-14ee329d13f1" />
-  </Folder>
   <Folder Name="/N1/" />
   <Folder Name="/N1/HomeTasks/" />
   <Folder Name="/N1/Tasks/">
@@ -14,5 +10,10 @@
   </Folder>
   <Folder Name="/N2/Tasks/">
     <Project Path="N2-T1/N2-T1.csproj" Id="34b38df7-c124-4c85-a035-0b8d70fc002f" />
+  </Folder>
+  <Folder Name="/N3/" />
+  <Folder Name="/N3/HomeTasks/" />
+  <Folder Name="/N3/Tasks/">
+    <Project Path="N3-T1/N3-T1.csproj" Id="081f9c77-4a98-420f-a374-4420c4f0d518" />
   </Folder>
 </Solution>
