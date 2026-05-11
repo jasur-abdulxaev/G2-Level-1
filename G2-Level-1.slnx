@@ -12,7 +12,9 @@
     <Project Path="N2-T1/N2-T1.csproj" Id="34b38df7-c124-4c85-a035-0b8d70fc002f" />
   </Folder>
   <Folder Name="/N3/" />
-  <Folder Name="/N3/HomeTasks/" />
+  <Folder Name="/N3/HomeTasks/">
+    <Project Path="N3-HT1/N3-HT1.csproj" Id="d42a67bf-4330-4657-b2cc-a2f4731f6729" />
+  </Folder>
   <Folder Name="/N3/Tasks/">
     <Project Path="N3-T1/N3-T1.csproj" Id="081f9c77-4a98-420f-a374-4420c4f0d518" />
   </Folder>
