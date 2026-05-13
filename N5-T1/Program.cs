@@ -103,3 +103,27 @@
 //Console.WriteLine("Parol to'g'ri kiritildi.");
 
 
+// Break va Continue, return operatorlari
+
+//qayt:
+for (int i = 1; i <= 10; i++)
+{
+    if (i == 5)
+    {
+        Console.WriteLine("Bu raqam 5 ga teng, sikl o'tkazvordi.");
+        //break; // for loopni to'xtatish
+        //continue; // for loopni davom ettirish, lekin 5 ni o'tkazib yuborish
+        //goto qayt;
+    }
+    Console.WriteLine(i);
+}
+
+Console.WriteLine();
+
+// Break - bu operator siklni to'xtatish uchun ishlatiladi.
+// Agar break operatori ishlatilsa, sikl darhol to'xtaydi va siklning tashqarisidagi kod bajariladi.
+
+// Continue - bu operator siklni davom ettirish uchun ishlatiladi,
+// lekin siklning joriy iteratsiyasini o'tkazib yuboradi.
+
+// goto - bu operator kodning boshqa qismiga o'tish uchun ishlatiladi.
