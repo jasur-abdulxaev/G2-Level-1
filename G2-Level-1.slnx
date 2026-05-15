@@ -28,4 +28,9 @@
   <Folder Name="/N5/Tasks/">
     <Project Path="N5-T1/N5-T1.csproj" Id="006d98f9-6d5c-42b7-a68e-f96af3135703" />
   </Folder>
+  <Folder Name="/N6/" />
+  <Folder Name="/N6/HomeTasks/" />
+  <Folder Name="/N6/Tasks/">
+    <Project Path="N6-T1/N6-T1.csproj" Id="de3b69e4-251f-4837-b5ee-e97a299c23ff" />
+  </Folder>
 </Solution>
