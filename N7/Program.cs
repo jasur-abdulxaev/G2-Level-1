@@ -15,7 +15,7 @@
 //// length
 //Console.WriteLine(name.Length); // 7
 //Console.WriteLine(emptyString.Length); // 0
-//// Console.WriteLine(nullString.Length); // Bu xatolikka olib keladi
+//Console.WriteLine(nullString.Length); // Bu xatolikka olib keladi
 
 //// Katta kichik harflar
 //string name = "OzODbeK";
@@ -61,9 +61,9 @@
 
 
 //// Bo'lish va Birlashtirish
-//string csv = "Sherbek;Ozodbek;Oydinoy;Jasur;Alijon";
+//string csv = "Sherbek;Ozodbek.Oydinoy;Jasur;Alijon";
 
-//string[] names = csv.Split(';');  // csv stringini ';' bo'yicha bo'lib, string arrayga joylashtiradi
+//string[] names = csv.Split(';', '.');  // csv stringini ';' bo'yicha bo'lib, string arrayga joylashtiradi
 
 //foreach (var name in names)
 //{
@@ -93,6 +93,16 @@
 //Console.WriteLine(input.All(char.IsDigit));  // input stringidagi barcha belgilar raqam mı? True
 //Console.WriteLine(input.Any(char.IsLetter));  // input stringidagi hech bo'lmagan belgi harf mı? False
 
+//// IndexOf, reverselar
+//string str = "Sherbek va Ozodbek juda zo'r do'stlar!";
+////string search = "do'stlar";
 
+//var startIndex = str.IndexOf("do'stlar");  // search stringining boshlanish indeksini qaytaradi
+
+//Console.WriteLine(startIndex);  // 29
+
+//// reverse
+//string reversed = new string(str.Reverse().ToArray());
+//Console.WriteLine(reversed);  // "!ralts'sod do'z aju lekboz va kebrehS"
 
 
