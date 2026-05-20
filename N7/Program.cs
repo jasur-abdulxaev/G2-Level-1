@@ -9,13 +9,13 @@
 
 //// Malumotlar
 //string name = "Oydinoy";
-//string emptyString = string.Empty;  // bo'sh string
+//string emptyString = string.Empty;  // bo'sh string ""  yoki " "
 //string nullString = null;  // null string
 
 //// length
 //Console.WriteLine(name.Length); // 7
 //Console.WriteLine(emptyString.Length); // 0
-//Console.WriteLine(nullString.Length); // Bu xatolikka olib keladi
+//// Console.WriteLine(nullString.Length); // Bu xatolikka olib keladi
 
 //// Katta kichik harflar
 //string name = "OzODbeK";
@@ -61,9 +61,9 @@
 
 
 //// Bo'lish va Birlashtirish
-//string csv = "Sherbek;Ozodbek.Oydinoy;Jasur;Alijon";
+//string csv = "Sherbek;Ozodbek.Oydinoy;Jasur;Alijon,Iqbol";
 
-//string[] names = csv.Split(';', '.');  // csv stringini ';' bo'yicha bo'lib, string arrayga joylashtiradi
+//string[] names = csv.Split(';', '.', ',');  // csv stringini ';' bo'yicha bo'lib, string arrayga joylashtiradi
 
 //foreach (var name in names)
 //{

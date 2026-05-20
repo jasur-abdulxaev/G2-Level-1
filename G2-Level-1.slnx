@@ -38,4 +38,8 @@
   <Folder Name="/N7/Tasks/">
     <Project Path="N7/N7.csproj" Id="7fc3f3e5-9165-4cc4-aa51-cf9607cce80d" />
   </Folder>
+  <Folder Name="/N8/" />
+  <Folder Name="/N8/Tasks/">
+    <Project Path="N8/N8.csproj" Id="867656e3-f168-4cfd-8e88-ab29bbd7a72f" />
+  </Folder>
 </Solution>
