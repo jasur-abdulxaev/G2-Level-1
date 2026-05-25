@@ -4,6 +4,11 @@
   <Folder Name="/N1/Tasks/">
     <Project Path="N1-T1/N1-T1.csproj" />
   </Folder>
+  <Folder Name="/N10/" />
+  <Folder Name="/N10/HomeTasks/" />
+  <Folder Name="/N10/Tasks/">
+    <Project Path="N10-T1/N10-T1.csproj" Id="c21c3f18-e0a3-4ad8-8488-2c87cc77c674" />
+  </Folder>
   <Folder Name="/N2/" />
   <Folder Name="/N2/HomeTasks/">
     <Project Path="N2-HT1/N2-HT1.csproj" Id="a9e14cc4-6f12-4798-9441-8a9315902000" />

@@ -14,12 +14,12 @@
 // void - qiymat qaytarmaydigan funksiyalar uchun ishlatiladi.
 
 
-//Parametrli funksiya(ma'lumot qabul qiluvchi)
-void IsmiBilanSalomBer(string ism)
-{
+////Parametrli funksiya(ma'lumot qabul qiluvchi)
+//void IsmiBilanSalomBer(string ism)
+//{
 
-    Console.WriteLine($"Assalomu alaykum, {ism}!");
-}
+//    Console.WriteLine($"Assalomu alaykum, {ism}!");
+//}
 
 //IsmiBilanSalomBer("Sherbek"); // "Assalomu alaykum, Sherbek!" ni chiqaradi
 //IsmiBilanSalomBer("Ozodbek"); // "Assalomu alaykum, Ozodbek!" ni chiqaradi
@@ -75,33 +75,33 @@ void IsmiBilanSalomBer(string ism)
 //Console.WriteLine(Bol(10, 10));
 
 
-// Ko'p parametrli funksiya
-void OquvchiniBaholash(string ism, int ball)
-{
-    if (ball >= 90)
-    {
-        Console.WriteLine($"A'lo natija, {ism}! Siz {ball} ball oldingiz.");
-    }
-    else if (ball >= 70)
-    {
-        Console.WriteLine($"Yaxshi natija, {ism}! Siz {ball} ball oldingiz.");
-    }
-    else if (ball >= 50)
-    {
-        Console.WriteLine($"Qoniqarli natija, {ism}! Siz {ball} ball oldingiz.");
-    }
-    else
-    {
-        Console.WriteLine($"Qoniqarsiz natija, {ism}! Siz {ball} ball oldingiz.");
-    }
-}
+//// Ko'p parametrli funksiya
+//void OquvchiniBaholash(string ism, int ball)
+//{
+//    if (ball >= 90)
+//    {
+//        Console.WriteLine($"A'lo natija, {ism}! Siz {ball} ball oldingiz.");
+//    }
+//    else if (ball >= 70)
+//    {
+//        Console.WriteLine($"Yaxshi natija, {ism}! Siz {ball} ball oldingiz.");
+//    }
+//    else if (ball >= 50)
+//    {
+//        Console.WriteLine($"Qoniqarli natija, {ism}! Siz {ball} ball oldingiz.");
+//    }
+//    else
+//    {
+//        Console.WriteLine($"Qoniqarsiz natija, {ism}! Siz {ball} ball oldingiz.");
+//    }
+//}
 
-OquvchiniBaholash("Sherbek", 55); // "Qoniqarli natija, Sherbek! Siz 55 ball oldingiz."
-OquvchiniBaholash("Ozodbek", 65); // "Qoniqarli natija, Ozodbek! Siz 65 ball oldingiz."
-OquvchiniBaholash("Oydinoy", 80); // "Yaxshi natija, Oydinoy! Siz 80 ball oldingiz."
-OquvchiniBaholash("Iqbolbek", 75); // "Yaxshi natija, Iqbolbek! Siz 75 ball oldingiz."
-OquvchiniBaholash("Alijon", 45); // "Qoniqarsiz natija, Alijon! Siz 45 ball oldingiz."
-OquvchiniBaholash("Jasur", 9); // "A'lo natija, Jasur! Siz 9 ball oldingiz."
+//OquvchiniBaholash("Sherbek", 55); // "Qoniqarli natija, Sherbek! Siz 55 ball oldingiz."
+//OquvchiniBaholash("Ozodbek", 65); // "Qoniqarli natija, Ozodbek! Siz 65 ball oldingiz."
+//OquvchiniBaholash("Oydinoy", 80); // "Yaxshi natija, Oydinoy! Siz 80 ball oldingiz."
+//OquvchiniBaholash("Iqbolbek", 75); // "Yaxshi natija, Iqbolbek! Siz 75 ball oldingiz."
+//OquvchiniBaholash("Alijon", 45); // "Qoniqarsiz natija, Alijon! Siz 45 ball oldingiz."
+//OquvchiniBaholash("Jasur", 9); // "A'lo natija, Jasur! Siz 9 ball oldingiz."
 
 
 
