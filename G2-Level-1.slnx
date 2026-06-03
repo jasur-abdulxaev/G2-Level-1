@@ -14,6 +14,12 @@
   <Folder Name="/N11/Tasks/">
     <Project Path="D:/Back End/G2-Level-1/N11-T1/N11-T1.csproj" Id="f3213b5d-a954-4a65-a8a1-69bb8b59eacf" />
   </Folder>
+  <Folder Name="/N12/" />
+  <Folder Name="/N12/HomeTasks/" />
+  <Folder Name="/N12/Tasks/">
+    <Project Path="ItLiveKurs/ItLiveKurs.csproj" Id="bae2934e-9c70-4cac-84d1-72980e6ece1e" />
+    <Project Path="N12-T1/N12-T1.csproj" Id="7562835e-4bb9-4112-aca0-ee7c201c6cf3" />
+  </Folder>
   <Folder Name="/N2/" />
   <Folder Name="/N2/HomeTasks/">
     <Project Path="D:/Back End/G2-Level-1/N2-HT1/N2-HT1.csproj" Id="a9e14cc4-6f12-4798-9441-8a9315902000" />

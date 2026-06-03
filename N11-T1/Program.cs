@@ -13,44 +13,44 @@
 // ref - kalit sozli funksiya ichida o'zgaruvchini nusxa sifatida emas, balki o'zgaruvchining manzilini yuboradi.
 // Shuning uchun funksiya ichida o'zgartirilgan qiymat tashqi o'zgaruvchiga ham ta'sir qiladi.
 
-//void AddOne(ref int son)
-//{
-//    son++;
-//}
+void AddOne(ref int son)
+{
+    son++;
+}
 
-//int y = 12;
+int y = 12;
 
-//AddOne(ref y);
-//Console.WriteLine($"y = {y}");
+AddOne(ref y);
+Console.WriteLine($"y = {y}");
 
 // oddiy bo'lsa - nusxasini yuboradi
 // ref - "menga o'zgaruvchini o'zini ber, nusxasini emas!"
 
-//// Amaliy masala (Pul yechish)
-//void PulYechish(ref double balans, double miqdor)
-//{
-//    if (balans >= miqdor)
-//    {
-//        balans -= miqdor;
-//        Console.WriteLine($"{miqdor} so'm pul yechildi. Qoldiq : {balans} so'm");
-//    }
-//    else
-//    {
-//        Console.WriteLine("Hisobda mablag' yetarli emas!");
-//    }
-//}
+// Amaliy masala (Pul yechish)
+void PulYechish(ref double balans, double miqdor)
+{
+    if (balans >= miqdor)
+    {
+        balans -= miqdor;
+        Console.WriteLine($"{miqdor} so'm pul yechildi. Qoldiq : {balans} so'm");
+    }
+    else
+    {
+        Console.WriteLine("Hisobda mablag' yetarli emas!");
+    }
+}
 
-//void PulQoshish(ref double balans, double miqdor)
-//{
-//    balans += miqdor;
-//    Console.WriteLine($"{miqdor} so'm pul qo'shildi. Balans : {balans} so'm");
-//}
+void PulQoshish(ref double balans, double miqdor)
+{
+    balans += miqdor;
+    Console.WriteLine($"{miqdor} so'm pul qo'shildi. Balans : {balans} so'm");
+}
 
-//double meningHisobim = 5_000_000;
+double meningHisobim = 5_000_000;
 
-//PulQoshish(ref meningHisobim, 200_000);  // 5_200_000 ming
-//PulYechish(ref meningHisobim, 1_000_000);  // 4_200_000 ming
-//PulYechish(ref meningHisobim, 5_000_000);  // Hisobda mablag' yetarli emas!
+PulQoshish(ref meningHisobim, 200_000);  // 5_200_000 ming
+PulYechish(ref meningHisobim, 1_000_000);  // 4_200_000 ming
+PulYechish(ref meningHisobim, 5_000_000);  // Hisobda mablag' yetarli emas!
 
 
 
