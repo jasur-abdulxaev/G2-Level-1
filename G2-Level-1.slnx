@@ -16,24 +16,31 @@
   </Folder>
   <Folder Name="/N12/" />
   <Folder Name="/N12/HomeTasks/">
-    <Project Path="N12-HT1/N12-HT1.csproj" Id="2c4c8354-b260-40eb-8a25-0fbe1826c476" />
+    <Project Path="D:/Back End/G2-Level-1/N12-HT1/N12-HT1.csproj" Id="2c4c8354-b260-40eb-8a25-0fbe1826c476" />
   </Folder>
   <Folder Name="/N12/Tasks/">
-    <Project Path="ItLiveKurs/ItLiveKurs.csproj" Id="bae2934e-9c70-4cac-84d1-72980e6ece1e" />
-    <Project Path="N12-T1/N12-T1.csproj" Id="7562835e-4bb9-4112-aca0-ee7c201c6cf3" />
+    <Project Path="D:/Back End/G2-Level-1/ItLiveKurs/ItLiveKurs.csproj" Id="bae2934e-9c70-4cac-84d1-72980e6ece1e" />
+    <Project Path="D:/Back End/G2-Level-1/N12-T1/N12-T1.csproj" Id="7562835e-4bb9-4112-aca0-ee7c201c6cf3" />
   </Folder>
   <Folder Name="/N13/" />
   <Folder Name="/N13/HomeTasks/" />
   <Folder Name="/N13/Tasks/">
-    <Project Path="N13-T1/N13-T1.csproj" Id="745f2872-22f6-44bf-a4a9-d8cec0f8e4b1" />
-    <Project Path="N13-T2/N13-T2.csproj" Id="a9b3250e-0b4a-4170-9de5-700f1f67ab4d" />
-    <Project Path="N13-T3/N13-T3.csproj" Id="d62b0e56-a6e2-4a2f-bf73-6c9be5b933c2" />
+    <Project Path="D:/Back End/G2-Level-1/N13-T1/N13-T1.csproj" Id="745f2872-22f6-44bf-a4a9-d8cec0f8e4b1" />
+    <Project Path="D:/Back End/G2-Level-1/N13-T2/N13-T2.csproj" Id="a9b3250e-0b4a-4170-9de5-700f1f67ab4d" />
+    <Project Path="D:/Back End/G2-Level-1/N13-T3/N13-T3.csproj" Id="d62b0e56-a6e2-4a2f-bf73-6c9be5b933c2" />
   </Folder>
   <Folder Name="/N14/" />
   <Folder Name="/N14/HomeTasks/" />
   <Folder Name="/N14/Tasks/">
-    <Project Path="N14-T1/N14-T1.csproj" Id="930c158e-ed2d-4c41-9151-554b5ce0b076" />
-    <Project Path="N14-T2/N14-T2.csproj" Id="f208d061-0f07-414b-8858-406646b553ac" />
+    <Project Path="D:/Back End/G2-Level-1/N14-T1/N14-T1.csproj" Id="930c158e-ed2d-4c41-9151-554b5ce0b076" />
+    <Project Path="D:/Back End/G2-Level-1/N14-T2/N14-T2.csproj" Id="f208d061-0f07-414b-8858-406646b553ac" />
+  </Folder>
+  <Folder Name="/N15/" />
+  <Folder Name="/N15/HomeTasks/" />
+  <Folder Name="/N15/Tasks/">
+    <Project Path="D:/Back End/G2-Level-1/N15-T1/N15-T1.csproj" Id="8408c3cc-6910-45b8-a150-d91f11a016bf" />
+    <Project Path="D:/Back End/G2-Level-1/N15-T2/N15-T2.csproj" Id="042a52ac-4ae0-4a6d-ba37-84dbe4144016" />
+    <Project Path="D:/Back End/G2-Level-1/N15-T3/N15-T3.csproj" Id="1946ec76-9052-4084-a6d6-011df1399d2e" />
   </Folder>
   <Folder Name="/N2/" />
   <Folder Name="/N2/HomeTasks/">
