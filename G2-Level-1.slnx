@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/Github/" />
+  <Folder Name="/Github/HomeTasks/" />
+  <Folder Name="/Github/Tasks/" />
   <Folder Name="/N1/" />
   <Folder Name="/N1/HomeTasks/" />
   <Folder Name="/N1/Tasks/">
@@ -62,6 +65,11 @@
   <Folder Name="/N18/HomeTasks/" />
   <Folder Name="/N18/Tasks/">
     <Project Path="N18-T1/N18-T1.csproj" Id="25cfd678-3ada-431f-b3e0-d47f031f76cc" />
+  </Folder>
+  <Folder Name="/N19/" />
+  <Folder Name="/N19/Tasks/">
+    <Project Path="N19-T1/N19-T1.csproj" Id="1646f1ca-98a6-487f-9f6e-f68b0fd21d5d" />
+    <Project Path="N19-T2/N19-T2.csproj" Id="949509e6-82c5-4893-bd3e-ca1376fd2e83" />
   </Folder>
   <Folder Name="/N2/" />
   <Folder Name="/N2/HomeTasks/">

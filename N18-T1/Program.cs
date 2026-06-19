@@ -158,3 +158,4 @@ Console.WriteLine(sonlar.Peek());
 
 
 
+
