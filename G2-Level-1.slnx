@@ -1,7 +1,4 @@
 <Solution>
-  <Folder Name="/Github/" />
-  <Folder Name="/Github/HomeTasks/" />
-  <Folder Name="/Github/Tasks/" />
   <Folder Name="/N1/" />
   <Folder Name="/N1/HomeTasks/" />
   <Folder Name="/N1/Tasks/">
@@ -77,6 +74,27 @@
   </Folder>
   <Folder Name="/N2/Tasks/">
     <Project Path="D:/Back End/G2-Level-1/N2-T1/N2-T1.csproj" Id="34b38df7-c124-4c85-a035-0b8d70fc002f" />
+  </Folder>
+  <Folder Name="/N20/">
+    <Project Path="N20-T1/N20-T1.csproj" Id="afdced25-7e88-425f-ae7b-89fcfc673673" />
+  </Folder>
+  <Folder Name="/N21/">
+    <Project Path="N21-T1/N21-T1.csproj" Id="cdb63deb-4792-4329-b7be-75b0e0de1fe4" />
+    <Project Path="N21-T2/N21-T2.csproj" Id="a907939a-dd66-4b27-9fda-6113d1f6bc34" />
+  </Folder>
+  <Folder Name="/N22/" />
+  <Folder Name="/N22/HomeTasks/" />
+  <Folder Name="/N22/Tasks/">
+    <Project Path="RoboContest/RoboContest.csproj" Id="70e091ef-8f0e-4709-96ee-6dba1ada91b6" />
+  </Folder>
+  <Folder Name="/N23/">
+    <Project Path="N23--T3/N23--T3.csproj" Id="6d4e083f-3aac-4196-8f6f-932efab02dd3" />
+    <Project Path="N23-T1/N23-T1.csproj" Id="21249f64-3ae1-4399-abc0-1c39cb7df61e" />
+    <Project Path="N24-T2/N24-T2.csproj" Id="a4b984bc-a138-49a1-b5a3-add072dabdcd" />
+  </Folder>
+  <Folder Name="/N24/">
+    <Project Path="N24--T2/N24--T2.csproj" Id="5d94e2f9-9a55-4322-8a51-a64f88d2f14b" />
+    <Project Path="N24-T1/N24-T1.csproj" Id="a997ca69-3975-4ceb-a0d6-eeb6ff688eed" />
   </Folder>
   <Folder Name="/N3/" />
   <Folder Name="/N3/HomeTasks/">
