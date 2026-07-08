@@ -96,6 +96,14 @@
     <Project Path="N24--T2/N24--T2.csproj" Id="5d94e2f9-9a55-4322-8a51-a64f88d2f14b" />
     <Project Path="N24-T1/N24-T1.csproj" Id="a997ca69-3975-4ceb-a0d6-eeb6ff688eed" />
   </Folder>
+  <Folder Name="/N25/">
+    <Project Path="N25--T1/N25--T1.csproj" Id="4104eb49-9561-433d-a613-07c36785afe0" />
+    <Project Path="N25-T2/N25-T2.csproj" Id="e07a7789-76e1-47e0-8812-823dade54b04" />
+  </Folder>
+  <Folder Name="/N26/">
+    <Project Path="Kutubxona/Kutubxona.csproj" Id="fefc8a4b-b95b-49ac-8146-e4097c792d78" />
+    <Project Path="N26-T2/N26-T2.csproj" Id="4faf8134-b7cf-47a2-bab5-10d7b5ac590c" />
+  </Folder>
   <Folder Name="/N3/" />
   <Folder Name="/N3/HomeTasks/">
     <Project Path="D:/Back End/G2-Level-1/N3-HT1/N3-HT1.csproj" Id="d42a67bf-4330-4657-b2cc-a2f4731f6729" />
