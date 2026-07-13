@@ -1,0 +1,10 @@
+Jasur|23|G2
+Oydinoy|17|G2
+Sherbek|16|G2
+|1|1
+1|1|1
+Jasur|23|G2
+Sherbek|16|G2
+Oydinoy|17|G2
+Alijon|15|g2
+Aurex|24|Alpha
